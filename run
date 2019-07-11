@@ -1,0 +1,3 @@
+make
+set -x
+./part$1 input

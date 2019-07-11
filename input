@@ -1,0 +1,4 @@
+./iobound -cycles 17034 -minutes 2
+./cpubound -cycles 17245 -minutes 2
+./iobound -cycles 17034 -minutes 2
+./cpubound -cycles 17245 -minutes 2
